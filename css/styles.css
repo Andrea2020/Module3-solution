@@ -41,9 +41,13 @@ body {
 }
 #nav-list a:hover {
 	background: #0275D8;
+	margin-top: -5px;
+	border: 1px solid;
 }
-#nav-list a span {
-	font-size: 1.2em;
+#nav-list a{
+	font-size: 1.4em;
+	text-align: center;
+	border: 1px solid;
 }
 .navbar-header button.navbar-toggle, .navbar-header .icon-bar {
 	border: 1px solid #fff;
